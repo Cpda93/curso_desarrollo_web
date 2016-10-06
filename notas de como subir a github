@@ -1,0 +1,14 @@
+ingresar desde la linea de comandos a la carpeta raiz
+ejecutar en orden los siguientes comandos
+git init
+(git status) muestra estatus de proyecto
+git add . (Es para agregar carpetas nuevas)
+git commit -m "primer commit " (Sube las carpetas nuevas)
+git remote add origin https://github.com/Cpda93/curso_desarrollo_web.git
+git push -u origin master 
+
+git push (sube la carpeta nueva a git)
+
+
+git  config --global push.default simple (quita advertecia)
+
